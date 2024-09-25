@@ -1,5 +1,6 @@
 //to calculate a function that will calculate and display the real roots of the quadratic equation ax^2+bx+c=0 using the quadratic formula
-//roll no 27#include <stdio.h>
+//roll no 27
+#include <stdio.h>
 #include <math.h>
 
 
