@@ -1,4 +1,4 @@
-//Write a C program to implement a simple calculator 
+//To implement a simple calculator 
 // roll no- 27, Date:26-09-2024
 
 #include <stdio.h>
@@ -13,7 +13,6 @@ int main() {
     float num1, num2, result;
     char operation;
 
-    // Displaying the menu
     printf("Simple Calculator\n");
     printf("Select an operation:\n");
     printf("1. Addition (+)\n");
@@ -21,7 +20,6 @@ int main() {
     printf("3. Multiplication (*)\n");
     printf("4. Division (/)\n");
 
-    // Taking user input for numbers and operation
     printf("Enter first number: ");
     scanf("%f", &num1);
     printf("Enter second number: ");
