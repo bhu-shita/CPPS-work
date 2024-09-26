@@ -1,4 +1,4 @@
-// Calculate the Factorial of a Number Using a Function
+//To calculate the Factorial of a Number Using a Function
 //roll no-27, date:26-09-2024
 
 #include <stdio.h>
