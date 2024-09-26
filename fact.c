@@ -10,7 +10,6 @@ int main() {
     int number;
     unsigned long long result;
 
-    // Taking user input
     printf("Enter a non-negative integer: ");
     scanf("%d", &number);
 
