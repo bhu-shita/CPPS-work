@@ -1,3 +1,4 @@
+//classwork question 4, date:5.11.24
 #include <stdio.h>
 #include <string.h>
 
